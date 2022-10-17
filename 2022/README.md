@@ -7,7 +7,7 @@
 | October 17-19      | [.NET DeveloperDays](https://net.developerdays.pl/)| Warsaw, Poland |||
 | October 20-22      | [dotnetdays](https://dotnetdays.ro/)| Iasi, Romania |||
 | November 8-10      | [.NET Conf](https://dotnetconf.net)| Online |✅|🎉|
-| November 10-11     | [Update Conference Prague](https://www.updateconference.net/en)| Prague, Czech Republic |||
+| November 10-11     | [Update Conference Prague](https://www.updateconference.net)| Prague, Czech Republic + Online |✅||
 | November 13-18     | [Visual Studio Live360](https://live360events.com/Events/Orlando-2022/Home.aspx) | Orlando, FL USA|||
 | November 20        | [DotNext](https://dotnext.ru/) | Moscow, Russia|✅||
 | Nov 28-Dec 02      | [.NET Developer Conference](https://www.dotnet-developer-conference.de/) | Colone, Germany |||
