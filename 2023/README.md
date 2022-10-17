@@ -2,6 +2,7 @@
 
 | Date               | Name                       | Location             | Online | Microsoft Event |
 |--------------------|----------------------------|----------------------|:------:|:-----:|
+| January 10-13      | [CodeMash](https://www.codemash.org/)| Sandusky, OH USA|||
 | January 23-27      | [NDC London](https://ndclondon.com/)| London, UK |||
 | March 19-14        | [Visual Studio Live](https://vslive.com/events/las-vegas-2023/home.aspx)|Las Vegas, NV USA|||
 | May 15-19          | [Visual Studio Live](https://vslive.com/)|Nashville, TN USA|||
