@@ -7,7 +7,7 @@
 | February 8-9       | [Swetugg Stockholm](https://swetugg.se/sthlm-2023)| Stockholm, SE|||
 | March 19-14        | [Visual Studio Live](https://vslive.com/events/las-vegas-2023/home.aspx)|Las Vegas, NV USA|||
 | May 15-19          | [Visual Studio Live](https://vslive.com/)|Nashville, TN USA|||
-| May 23-25          | [Techorama Belgium](https://techorama.be/)|Antwerp, BE|||
+| May 15-17          | [Techorama Belgium](https://techorama.be/)|Antwerp, BE|||
 | July 17-21         | [Visual Studio Live](https://vslive.com/)|Redmond, WA USA|||
 | November 15-16     | [Microsoft Ignite](https://ignite.microsoft.com)|?|✅|🎉|
 
