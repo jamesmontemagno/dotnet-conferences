@@ -17,4 +17,4 @@
 | July 17-21         | [Visual Studio Live](https://vslive.com/)|Redmond, WA USA|||
 | September 25-29    | [Basta! Mainz](https://basta.net/mainz/)| Mainz, DE|||
 | November 15-16     | [Microsoft Ignite](https://ignite.microsoft.com)|?|✅|🎉|
-| November 23-24.    | [Update Conference](https://www.updateconference.net) | Prague, CZ | | | 
+| November 23-24     | [Update Conference](https://www.updateconference.net) | Prague, CZ | | | 
