@@ -16,4 +16,5 @@
 | June/July?         | [WeAreDevelopers](https://www.wearedevelopers.com/world-congress)|Berlin, DE|||
 | July 17-21         | [Visual Studio Live](https://vslive.com/)|Redmond, WA USA|||
 | September 25-29    | [Basta! Mainz](https://basta.net/mainz/)| Mainz, DE|||
+| October 9-11       | [Techorama Netherlands](https://www.techorama.nl/)| Utrecht, NL|||
 | November 15-16     | [Microsoft Ignite](https://ignite.microsoft.com)|?|✅|🎉|
