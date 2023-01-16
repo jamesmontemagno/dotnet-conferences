@@ -20,3 +20,4 @@
 | October 9-11       | [Techorama Netherlands](https://www.techorama.nl/)| Utrecht, NL|||
 | November 12-17     | [Live 360](https://live360events.com/Home.aspx)|Orlando, FL USA|||
 | November 15-16     | [Microsoft Ignite](https://ignite.microsoft.com)|?|✅|🎉|
+| November 23-24     | [Update Conference](https://www.updateconference.net) | Prague, CZ | ✅ | | 
