@@ -10,8 +10,8 @@
 | April 20-22        | [dotnetdays](https://dotnetdays.ro/)| Iasi, Romania |||
 | May 15-19          | [Visual Studio Live](https://vslive.com/events/nashville-2023/home.aspx)|Nashville, TN USA|||
 | May 15-17          | [Techorama Belgium](https://techorama.be/)|Antwerp, BE|||
+| May 22-25          | [Microsoft Build](https://build.microsoft.com)|Seattle, WA, USA|✅|🎉|
 | May 22-26          | [NDC Oslo](https://ndcoslo.com/)| Oslo, Norway |||
-| May 23-24          | [Microsoft Build](https://build.microsoft.com)|Seattle, WA, USA|✅|🎉|
 | May 25-26          | [DevSum](https://www.devsum.se)|Stockholm, SE|||
 | June 26-30         | [DWX - Developer Week](https://www.developer-week.de/)|NUREMBERG, DE|||
 | July 17-21         | [Visual Studio Live](https://vslive.com/events/microsofthq-2023/home.aspx)|Redmond, WA USA|||
